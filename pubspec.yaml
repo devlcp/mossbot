@@ -1,0 +1,9 @@
+name: Mossbot
+description: A sample command-line application.
+version: 0.0.1
+
+environment:
+  sdk: '>=2.0.0 <3.0.0'
+
+dependencies:
+  nyxx: "^0.24.0"
