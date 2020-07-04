@@ -8,7 +8,7 @@ import 'dart:async';
 // Main function
 void main() {
   // Create new bot instance
-  api.Client bot = new api.Client('NDM0MTI1MzA0Mjg2NTQzODg0.DfIqug.rIPTF2LWGlagoAYpRWPpMTwjM6E');
+  api.Client bot = new api.Client('TOKEN');
 
   print(bot);
 
