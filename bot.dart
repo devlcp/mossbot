@@ -14,7 +14,7 @@ void main() {
 
   // Creating new CommandsFramework object and registering commands.
   new command.CommandsFramework('.', bot)
-    ..admins = ["198622698690183168"]
+    ..admins = [""]
     ..registerLibraryCommands();
 }
 
